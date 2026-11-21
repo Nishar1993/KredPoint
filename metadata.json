@@ -1,0 +1,6 @@
+{
+  "name": "KREDPOINT",
+  "description": "KREDPOINT — Proposed financial facilitation and business support services for gig workers, small business owners, and salaried employees in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
